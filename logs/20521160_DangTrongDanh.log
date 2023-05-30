@@ -1,0 +1,123 @@
+16:01:07 [main] INFO  extendthread.EchoServerThread - test log
+16:01:07 [main] ERROR extendthread.EchoServerThread - tesst
+16:01:07 [main] FATAL extendthread.EchoServerThread - tesst2222
+16:19:26 [main] INFO  extendthread.EchoServerThread - server tao port de cho client lang nghe
+16:20:18 [main] INFO  extendthread.EchoServerThread - client ket noi toi server
+16:20:18 [main] INFO  extendthread.EchoCLient - Tạo socket cho client ket noi den server thong qua ID va port
+16:20:18 [main] INFO  extendthread.EchoCLient - nhap tin nhan tu client
+16:20:51 [Thread-0] INFO  extendthread.ServerThread - tin nhan tu phia client da gui
+16:20:51 [Thread-0] INFO  extendthread.ServerThread - server da nhan tin nhan
+16:20:51 [main] INFO  extendthread.EchoCLient - in ket qua ket qua ra man hinh from server
+16:20:51 [main] INFO  extendthread.EchoCLient - nhap tin nhan tu client
+16:23:06 [main] INFO  extendthread.EchoServerThread - client ket noi toi server
+16:23:06 [main] INFO  extendthread.EchoCLient - Tạo socket cho client ket noi den server thong qua ID va port
+16:23:06 [main] INFO  extendthread.EchoCLient - nhap tin nhan tu client
+16:23:15 [Thread-1] INFO  extendthread.ServerThread - tin nhan tu phia client da gui
+16:23:15 [Thread-1] INFO  extendthread.ServerThread - server da nhan tin nhan
+16:23:15 [main] INFO  extendthread.EchoCLient - in ket qua ket qua ra man hinh from server
+16:23:15 [main] INFO  extendthread.EchoCLient - nhap tin nhan tu client
+16:40:22 [main] INFO  implement.App - Chon gia tri 1 hoac 2 de thuc thi
+16:40:31 [main] INFO  implement.App - Mang duoc tao nhu sao
+16:41:23 [main] INFO  implement.App - Chon gia tri 1 hoac 2 de thuc thi
+16:41:24 [main] INFO  implement.App - thu duoc 4 thread nhu sau
+19:37:36 [main] INFO  Sort.MainSort - 
+ mang duoc tao bang cach random so ngau nhien có 2000 phan tu
+19:37:36 [main] INFO  Sort.MainSort - 
+ so luong phan tu la 2000
+19:37:36 [main] INFO  Sort.MainSort - 
+ tinh thoi gian thuc hien 1 luong
+19:37:36 [main] INFO  Sort.Sort2000 - tinh thoi gian chạy 4 luong
+19:37:36 [main] INFO  Sort.MainSort - 
+ mang sau khi da duoc sap xep
+19:38:25 [main] INFO  Sort.MainSort - 
+ mang duoc tao bang cach random so ngau nhien có 2000 phan tu
+19:38:25 [main] INFO  Sort.MainSort - 
+ so luong phan tu la 2000
+19:38:25 [main] INFO  Sort.MainSort - 
+ tinh thoi gian thuc hien 1 luong
+19:38:25 [main] INFO  Sort.Sort2000 - tinh thoi gian chạy 4 luong
+19:38:25 [main] INFO  Sort.MainSort - 
+ mang sau khi da duoc sap xep
+19:40:01 [main] INFO  Sort.MainSort - 
+ mang duoc tao bang cach random so ngau nhien có 2000 phan tu
+19:40:02 [main] INFO  Sort.MainSort - 
+ so luong phan tu la 2000
+19:40:02 [main] INFO  Sort.MainSort - tinh thoi gian thuc hien 1 luong
+19:40:02 [main] INFO  Sort.Sort2000 - tinh thoi gian chạy 4 luong
+19:40:02 [main] INFO  Sort.MainSort - 
+ mang sau khi da duoc sap xep
+19:40:58 [main] INFO  Sort.MainSort -  mang duoc tao bang cach random so ngau nhien có 2000 phan tu
+19:40:58 [main] INFO  Sort.MainSort -  so luong phan tu la 2000
+19:40:58 [main] INFO  Sort.MainSort - tinh thoi gian thuc hien 1 luong
+19:40:58 [main] INFO  Sort.Sort2000 - tinh thoi gian chạy 4 luong
+19:40:58 [main] INFO  Sort.MainSort -  mang sau khi da duoc sap xep
+19:41:39 [main] INFO  Sort.MainSort -  mang duoc tao bang cach random so ngau nhien có 2000 phan tu
+19:41:39 [main] INFO  Sort.MainSort -  so luong phan tu la 2000
+19:41:39 [main] INFO  Sort.MainSort - tinh thoi gian thuc hien 1 luong
+19:41:39 [main] INFO  Sort.Sort2000 - tinh thoi gian chạy 4 luong
+19:41:39 [main] INFO  Sort.MainSort -  mang sau khi da duoc sap xep
+19:41:52 [main] INFO  Sort.MainSort -  mang duoc tao bang cach random so ngau nhien có 2000 phan tu
+19:41:53 [main] INFO  Sort.MainSort -  so luong phan tu la 2000
+19:41:53 [main] INFO  Sort.MainSort - tinh thoi gian thuc hien 1 luong
+19:41:53 [main] INFO  Sort.Sort2000 - tinh thoi gian chạy 4 luong
+19:41:53 [main] INFO  Sort.MainSort -  mang sau khi da duoc sap xep
+19:41:58 [main] INFO  Sort.MainSort -  mang duoc tao bang cach random so ngau nhien có 2000 phan tu
+19:41:58 [main] INFO  Sort.MainSort -  so luong phan tu la 2000
+19:41:58 [main] INFO  Sort.MainSort - tinh thoi gian thuc hien 1 luong
+19:41:58 [main] INFO  Sort.Sort2000 - tinh thoi gian chạy 4 luong
+19:41:58 [main] INFO  Sort.MainSort -  mang sau khi da duoc sap xep
+19:42:02 [main] INFO  Sort.MainSort -  mang duoc tao bang cach random so ngau nhien có 2000 phan tu
+19:42:03 [main] INFO  Sort.MainSort -  so luong phan tu la 2000
+19:42:03 [main] INFO  Sort.MainSort - tinh thoi gian thuc hien 1 luong
+19:42:03 [main] INFO  Sort.Sort2000 - tinh thoi gian chạy 4 luong
+19:42:03 [main] INFO  Sort.MainSort -  mang sau khi da duoc sap xep
+19:42:07 [main] INFO  Sort.MainSort -  mang duoc tao bang cach random so ngau nhien có 2000 phan tu
+19:42:07 [main] INFO  Sort.MainSort -  so luong phan tu la 2000
+19:42:07 [main] INFO  Sort.MainSort - tinh thoi gian thuc hien 1 luong
+19:42:07 [main] INFO  Sort.Sort2000 - tinh thoi gian chạy 4 luong
+19:42:07 [main] INFO  Sort.MainSort -  mang sau khi da duoc sap xep
+19:42:11 [main] INFO  Sort.MainSort -  mang duoc tao bang cach random so ngau nhien có 2000 phan tu
+19:42:11 [main] INFO  Sort.MainSort -  so luong phan tu la 2000
+19:42:11 [main] INFO  Sort.MainSort - tinh thoi gian thuc hien 1 luong
+19:42:11 [main] INFO  Sort.Sort2000 - tinh thoi gian chạy 4 luong
+19:42:11 [main] INFO  Sort.MainSort -  mang sau khi da duoc sap xep
+19:42:15 [main] INFO  Sort.MainSort -  mang duoc tao bang cach random so ngau nhien có 2000 phan tu
+19:42:15 [main] INFO  Sort.MainSort -  so luong phan tu la 2000
+19:42:15 [main] INFO  Sort.MainSort - tinh thoi gian thuc hien 1 luong
+19:42:15 [main] INFO  Sort.Sort2000 - tinh thoi gian chạy 4 luong
+19:42:15 [main] INFO  Sort.MainSort -  mang sau khi da duoc sap xep
+19:42:19 [main] INFO  Sort.MainSort -  mang duoc tao bang cach random so ngau nhien có 2000 phan tu
+19:42:19 [main] INFO  Sort.MainSort -  so luong phan tu la 2000
+19:42:19 [main] INFO  Sort.MainSort - tinh thoi gian thuc hien 1 luong
+19:42:19 [main] INFO  Sort.Sort2000 - tinh thoi gian chạy 4 luong
+19:42:19 [main] INFO  Sort.MainSort -  mang sau khi da duoc sap xep
+19:42:23 [main] INFO  Sort.MainSort -  mang duoc tao bang cach random so ngau nhien có 2000 phan tu
+19:42:23 [main] INFO  Sort.MainSort -  so luong phan tu la 2000
+19:42:23 [main] INFO  Sort.MainSort - tinh thoi gian thuc hien 1 luong
+19:42:23 [main] INFO  Sort.Sort2000 - tinh thoi gian chạy 4 luong
+19:42:23 [main] INFO  Sort.MainSort -  mang sau khi da duoc sap xep
+19:42:27 [main] INFO  Sort.MainSort -  mang duoc tao bang cach random so ngau nhien có 2000 phan tu
+19:42:27 [main] INFO  Sort.MainSort -  so luong phan tu la 2000
+19:42:27 [main] INFO  Sort.MainSort - tinh thoi gian thuc hien 1 luong
+19:42:27 [main] INFO  Sort.Sort2000 - tinh thoi gian chạy 4 luong
+19:42:27 [main] INFO  Sort.MainSort -  mang sau khi da duoc sap xep
+19:42:31 [main] INFO  Sort.MainSort -  mang duoc tao bang cach random so ngau nhien có 2000 phan tu
+19:42:31 [main] INFO  Sort.MainSort -  so luong phan tu la 2000
+19:42:31 [main] INFO  Sort.MainSort - tinh thoi gian thuc hien 1 luong
+19:42:31 [main] INFO  Sort.Sort2000 - tinh thoi gian chạy 4 luong
+19:42:31 [main] INFO  Sort.MainSort -  mang sau khi da duoc sap xep
+19:42:34 [main] INFO  Sort.MainSort -  mang duoc tao bang cach random so ngau nhien có 2000 phan tu
+19:42:34 [main] INFO  Sort.MainSort -  so luong phan tu la 2000
+19:42:34 [main] INFO  Sort.MainSort - tinh thoi gian thuc hien 1 luong
+19:42:34 [main] INFO  Sort.Sort2000 - tinh thoi gian chạy 4 luong
+19:42:34 [main] INFO  Sort.MainSort -  mang sau khi da duoc sap xep
+19:42:38 [main] INFO  Sort.MainSort -  mang duoc tao bang cach random so ngau nhien có 2000 phan tu
+19:42:38 [main] INFO  Sort.MainSort -  so luong phan tu la 2000
+19:42:38 [main] INFO  Sort.MainSort - tinh thoi gian thuc hien 1 luong
+19:42:38 [main] INFO  Sort.Sort2000 - tinh thoi gian chạy 4 luong
+19:42:38 [main] INFO  Sort.MainSort -  mang sau khi da duoc sap xep
+19:42:41 [main] INFO  Sort.MainSort -  mang duoc tao bang cach random so ngau nhien có 2000 phan tu
+19:42:42 [main] INFO  Sort.MainSort -  so luong phan tu la 2000
+19:42:42 [main] INFO  Sort.MainSort - tinh thoi gian thuc hien 1 luong
+19:42:42 [main] INFO  Sort.Sort2000 - tinh thoi gian chạy 4 luong
+19:42:42 [main] INFO  Sort.MainSort -  mang sau khi da duoc sap xep

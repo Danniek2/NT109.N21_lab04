@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<Configuration status="WARN">
+    <Properties>
+        <Property name="filename">./logs</Property>
+    </Properties>
+    <Appenders>
+        <RollingFile name="file" 
+                     fileName="${filename}/20521160_DangTrongDanh.log"
+                     filePattern="${filename}/20521160_DangTrongDanh-%d{HH:mm:ss:SSS}.log">
+            <PatternLayout>
+                <pattern>%d{HH:mm:ss} [%t] %-5level %logger{36} - %msg%n</pattern>
+            </PatternLayout>
+            <SizeBasedTriggeringPolicy size="1 KB" />
+        </RollingFile>
+        <Console name="ABC" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss} [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+    </Appenders>
+    <Loggers>
+        <Logger name="Lab04_multitthread" level="info" additivity="false">
+            <AppenderRef ref="file"/>
+            <AppenderRef ref="ABC"/>
+        </Logger>
+        <Root level="trace">
+            <AppenderRef ref="ABC"/>
+            <AppenderRef ref="file"/>
+        </Root>
+    </Loggers>
+</Configuration>
+
